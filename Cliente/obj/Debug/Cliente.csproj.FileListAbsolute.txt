@@ -1,0 +1,22 @@
+C:\Users\Camilo\source\repos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Camilo\source\repos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Camilo\source\repos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\Camilo\source\repos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Camilo\source\repos\Cliente\Cliente\bin\Debug\Program.cs
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\bin\Debug\Program.cs
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\bin\Debug\Cliente.exe
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\bin\Debug\Cliente.pdb
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.exe
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.pdb
+C:\Users\laboratorio\Desktop\actualizacion\Actualizacion guia 3\Conectar Manager\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
